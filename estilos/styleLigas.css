@@ -37,7 +37,7 @@ h2{
     border-right: solid black 1px;
 }
 .sula{
-    color: rgb(151, 151, 6);
+    color: rgb(223, 223, 35);
     border-right: solid black 1px;
 }
 .zona{
@@ -51,5 +51,6 @@ td{
     padding: 0px 5px 0px 5px;
 }
 #botao{
-    width: 466px;
+    padding: 5px;
+    margin-top: 20px;
 }
