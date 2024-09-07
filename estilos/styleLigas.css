@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(128, 128, 128, 0.459);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin: 0px;
+}
+main{
+    font-size: large;
+}
+h1{
+    background-color: #032340;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 0px;
+}
+div{
+    width: fit-content;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.51);
+    margin-left: 10px;
+}
+h2{
+    text-align: center;
+    color: #000000;
+}
+.classificacao{
+    color: #0972d4;
+}
+.liberta{
+    color: rgb(26, 172, 26);
+    border-right: solid black 1px;
+}
+.pre{
+    color: rgb(7, 90, 7);
+    border-right: solid black 1px;
+}
+.sula{
+    color: rgb(151, 151, 6);
+    border-right: solid black 1px;
+}
+.zona{
+    color: rgb(189, 5, 5);
+    border-right: solid black 1px;
+}
+.time{
+    border-right: solid black 1px;
+}
+td{
+    padding: 0px 5px 0px 5px;
+}
+#botao{
+    width: 466px;
+}
