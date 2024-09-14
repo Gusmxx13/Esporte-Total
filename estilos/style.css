@@ -16,6 +16,16 @@ header > h1{
     margin: 0px;
     font-family: "SUSE", sans-serif;
 }
+nav{
+    background-color: #032340;
+}
+span{
+    margin: 0px 10px 0px 5px
+}
+a{
+    text-decoration: none;
+    color: white;
+}
 h2{
     text-align: center;
 }
@@ -46,14 +56,4 @@ img{
     margin: auto;
     margin-bottom: 50px;
     box-shadow:2px 2px 1px rgba(0, 0, 0, 0.51);
-}
-a{
-    text-decoration: none;
-    text-decoration: underline;
-    color: #0972d4;
-}
-nav{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    width: fit-content;
 }
