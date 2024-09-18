@@ -57,3 +57,12 @@ img{
     margin-bottom: 50px;
     box-shadow:2px 2px 1px rgba(0, 0, 0, 0.51);
 }
+#rodape{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #032340;
+    color: rgba(255, 255, 255, 0.479);
+    font-size: smaller;
+}
